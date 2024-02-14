@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ddiddu
-- 👀 I’m interested in Deep Learning Background Segmentation
-- 🌱 I’m currently learning in School of Computing, KAIST
-- 📫 How to reach me klog104@kaist.ac.kr
+- 👀 I’m interested in Artificial Intelligence (AI) and Human-Computer Interaction (HCI)
+- 🌱 I’m currently learning in Interactive Computing, Georgia Institute of Technology
+- 📫 How to reach me jisu.kim@gatech.edu
 - ✨ You can learn more about me on [medium blog](medium.com/ddiddu-log)
 
 <!---
