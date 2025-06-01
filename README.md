@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Jisu Kim.
 - 👀 I’m interested in Artificial Intelligence (AI) and Human-Computer Interaction (HCI).
-- 🌱 I’m a graduating master's student in Interactive Computing, Georgia Institute of Technology.
-- 📫 How to reach me: [jisu.kim@gatech.edu](mailto:jisu.kim@gatech.edu).
-- ✨ You can learn more about me on [my homepage](https://jisulog.kim).
-- 🔒 Most of my work is hosted on [github.gatech.edu](https://github.gatech.edu), where I'm usually active.
+- 🌱 I’m currently studying Interactive Computing at [Georgia Tech](https://www.gatech.edu/).
+- 💼 Previously at [KAIST](https://www.kaist.ac.kr/en/), [Samsung Electronics](https://www.samsung.com/us/about-us/our-business/), [Samsung SDS](https://www.samsungsds.com/us/index.html), and [Tesla](https://www.tesla.com/).
+- 📫 Reach me at [jisu.kim@gatech.edu](mailto:jisu.kim@gatech.edu).
+- ✨ Learn more on my [homepage](your-homepage-link).
+- 🔒 Most of my work is on [github.gatech.edu](https://github.gatech.edu), where I’m usually active.
 
 <!---
 ddiddu/ddiddu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
